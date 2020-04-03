@@ -1,6 +1,6 @@
-earretvaertb "\n"
-brate"\n"
-bar'\n'
+earretvaertb <br />
+brate <br />
+bar <br />
 b\n
 wear
 bt
