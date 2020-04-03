@@ -1,8 +1,7 @@
-earretvaertb
-brate
-
-bar
-b
+earretvaertb "\n"
+brate"\n"
+bar'\n'
+b\n
 wear
 bt
 qwetb
