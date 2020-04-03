@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <sharpUpdate>
     <update> 
-        <version>2.0.0</version> 
+        <version>1.0.0</version> 
         <url>https://github.com/STGGameDev/Game_Dev/blob/master/Launcher.exe?raw=true</url> 
         <filePath>./Launcher.exe</filePath>
         <md5>ad75a0be7c4da91b4f913931f5d5d2f9</md5>
