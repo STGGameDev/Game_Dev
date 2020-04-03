@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
     <update> 
-        <version>1.0.0</version> 
+        <version>1.0.0.1</version> 
         <url>https://github.com/STGGameDev/Game_Dev/blob/master/Launcher.exe?raw=true</url> 
         <filePath>./Launcher.exe</filePath>
-        <md5>2387adccf2b1b5cd6127f9f9db141eec</md5>
-        <description>Update: Aktualizacja zawiera dodatkowe informacje dla kacpra.</description> 
+        <md5>94b04f33d04a1a847b410330128749c1</md5>
+        <description>Update:</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
